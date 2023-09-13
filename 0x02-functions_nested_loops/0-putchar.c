@@ -7,9 +7,6 @@
  *
  */
 int _putchar(char c)
-{
-    return write(1, &c, 1); // Use the write function to print the character.
-}
 
 int main(void)
 {
