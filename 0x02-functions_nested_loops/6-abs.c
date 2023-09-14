@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * int _abs - prints the absolute of an int
+ * _abs - prints the absolute of an int
  *
  * @n: int to be checked
  *
