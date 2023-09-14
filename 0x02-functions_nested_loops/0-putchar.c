@@ -1,13 +1,10 @@
 #include "main.h"
-#include <unistd.h>
-/**
- * main - prints _putchar
- *
- * Return: 0
- *
- */
-int _putchar(char c)
 
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
 int main(void)
 {
 	_putchar('_');
