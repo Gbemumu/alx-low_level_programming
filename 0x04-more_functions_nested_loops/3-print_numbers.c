@@ -10,10 +10,14 @@
 void print_numbers(void)
 {
 
-	char i;
+	char digit = '0';
 
-	for (i = 0; i <= ; i++)
+	while (digit <= '9')
+	{
 		_putchar(i);
-		_putchar('\n');
+		digit++;
+	}
+
+	_putchar('\n');
 
 }
