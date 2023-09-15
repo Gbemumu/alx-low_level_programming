@@ -5,7 +5,7 @@
  *
  * @a: one of the ints to be multiplied
  *
- * @: the second int
+ * @b: the second int
  *
  * Return: Returns the result
  */
