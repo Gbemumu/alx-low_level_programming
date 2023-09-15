@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isupper - check char for an uppercase
+ * _isdigit - check char for an uppercase
  *
  * @c: char to check
  *
@@ -11,13 +11,13 @@
 int _isdigit(int c)
 
 {
-        if (c >= '0' && c <= '9')
-        {
-                return (1);
-        }
+	if (c >= '0' && c <= '9')
+	{
+		return (1);
+	}
 
-        else
-        {
-                return (0);
-        }
+	else
+	{
+		return (0);
+	}
 }
