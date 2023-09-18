@@ -4,8 +4,6 @@
  * print_line - prints a line in the terminal
  *
  * @n: number of times _ should be printed
- *
- * Return: Returns nothing
  */
 
 void print_line(int n)
